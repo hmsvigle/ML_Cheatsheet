@@ -50,4 +50,4 @@ def update_weights(m, b, X, Y, learning_rate):
     return m, b
 References
 
-[1]	http://sebastianruder.com/optimizing-gradient-descent/
+https://ml-cheatsheet.readthedocs.io/
